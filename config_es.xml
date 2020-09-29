@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-    <name>tarea5</name>
-    <displayName><![CDATA[Tarea 5]]></displayName>
+    <name>modulo52</name>
+    <displayName><![CDATA[modulo tarea 5(v.2)]]></displayName>
     <version><![CDATA[1.0.0]]></version>
-    <description><![CDATA[Genera texto en ficha de productos, editable desde BO]]></description>
-    <author><![CDATA[ana]]></author>
-    <tab><![CDATA[front_offices_features]]></tab>
+    <description><![CDATA[modulo tarea 5(v.2), ]]></description>
+    <author><![CDATA[yomisma]]></author>
+    <tab><![CDATA[administration]]></tab>
     <is_configurable>1</is_configurable>
     <need_instance>0</need_instance>
 	<limited_countries></limited_countries>
